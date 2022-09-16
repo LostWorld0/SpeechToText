@@ -19,6 +19,6 @@ There are two ways to start the program
 ```
     python main.py
 ```
-When you run the script, a hidden folder (`TEMPChunks`) will be created in the same location containing the processed audio
+When you run the script, a hidden folder will be created in the same location containing the processed audio
 ![Chunks](/../images/chunks.png)
 > 3. The text will be saved in the `processed_text.txt`
