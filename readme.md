@@ -9,6 +9,10 @@ There are two ways to start the program
 
 <sub> :+1: For the first option, it's best to have the audio file in the same folder</sub>
 
+**Steps to run project with speechToText_prod.exe:**
+> 1. Drag and drop the audio file onto this program
+> 2. The text will be saved in the `processed_text.txt`
+
 **Steps to run project with main.py:**
 > 1. Install packages from `requirements.txt`
 ###### packages: `SpeechRecognition` and `pydub`
