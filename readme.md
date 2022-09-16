@@ -7,7 +7,7 @@ There are two ways to start the program
 - with main.py
 - or SpeechToText.exe
 
-<sub>For the first option, it's best to have the audio file in the same folder</sub>
+<sub> :+1: For the first option, it's best to have the audio file in the same folder</sub>
 
 **Steps to run project with main.py:**
 > 1. Install packages from `requirements.txt`
