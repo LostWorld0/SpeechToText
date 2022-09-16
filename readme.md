@@ -9,3 +9,4 @@ Download latest files (*zip* or *tar.gz*) from [Release - SpeechToText](https://
 ```
     pip install -r requirements.txt
 ```
+> 2. 

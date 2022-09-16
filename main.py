@@ -39,11 +39,11 @@ def get_large_audio_transcription(path):
                 whole_text += text
     return whole_text
 os.system("cls")
-# path = input("File to read: ")
-try: 
-    path = sys.argv[1]
-except IndexError as e:
-    path = input("File to read: ")
+path = input("File to read: ")
+# try: 
+#     path = sys.argv[1]
+# except IndexError as e:
+#     path = input("File to read: ")
 
 print("\nFull text:", get_large_audio_transcription(path))
 
