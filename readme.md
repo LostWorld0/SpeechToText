@@ -5,7 +5,7 @@ Download latest files (*zip* or *tar.gz*) from [Release - SpeechToText](https://
 
 **Steps to run project:**
 > 1. Install packages from `requirements.txt`
-> ######    packages: `SpeechRecognition` and `pydub`
+###### > packages: `SpeechRecognition` and `pydub`
 ```
     pip install -r requirements.txt
 ```
