@@ -24,7 +24,7 @@ def get_large_audio_transcription(path):
         with sr.AudioFile(chunk_filename) as source:
             audio_listened = r.record(source)
             try:
-                text = r.recognize_google(audio_listened, language="pl-PL")
+                text = r.recognize_google(audio_listened, language="pl-PL") #change this value to your language
             except sr.UnknownValueError as e:
                 print("Error while reading audio file ", str(e))
             else:
