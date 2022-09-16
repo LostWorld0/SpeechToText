@@ -7,10 +7,15 @@ There are two ways to start the program
 - with main.py
 - or SpeechToText.exe
 
-**Steps to run project:**
+<sub>For the first option, it's best to have the audio file in the same folder</sub>
+
+**Steps to run project with main.py:**
 > 1. Install packages from `requirements.txt`
 ###### packages: `SpeechRecognition` and `pydub`
 ```
     pip install -r requirements.txt
 ```
-> 2. 
+> 2. Run `main.py` script direct or via terminal
+```
+    python main.py
+```
